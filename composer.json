@@ -1,5 +1,5 @@
 {
-  "name": "volcengine/ve-tos-php-sdk",
+  "name": "xiaoke4869/mico-ve-tos-php-sdk",
   "description": "PHP SDK for volcengine TOS",
   "license": "Apache 2.0",
   "version": "2.1.9",
@@ -17,7 +17,7 @@
   ],
   "require": {
     "php": ">=5.6",
-    "guzzlehttp/guzzle": "^6.5",
+    "guzzlehttp/guzzle": "^6.5|^7.0.1",
     "ext-json": "*"
   },
   "autoload": {
