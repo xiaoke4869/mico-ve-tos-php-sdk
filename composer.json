@@ -2,7 +2,7 @@
   "name": "xiaoke4869/mico-ve-tos-php-sdk",
   "description": "PHP SDK for volcengine TOS",
   "license": "Apache 2.0",
-  "version": "2.1.9",
+  "version": "1.0.0",
   "type": "library",
   "authors": [
     {
